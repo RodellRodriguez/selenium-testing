@@ -1,7 +1,6 @@
 import json, unittest, time
 
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
 
 from pages.schedule_demo_page import ScheduleDemoPage
 
